@@ -2,6 +2,9 @@ N, x, y = map(int, input().split())
 
 # lets try in recursion version 
 
+print("lets get it")
+
+
 
 num = 0 
 while N != 0:
