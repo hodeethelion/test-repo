@@ -1,5 +1,8 @@
 N, x, y = map(int, input().split())
 
+# lets try in recursion version 
+
+
 num = 0 
 while N != 0:
     N -= 1
