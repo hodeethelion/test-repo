@@ -1,7 +1,7 @@
 N, x, y = map(int, input().split())
 
 # lets try in recursion version 
-
+# real_recursion 진짜 재귀함수로 브랜치를 만들어보자구여 
 
 num = 0 
 while N != 0:
